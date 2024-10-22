@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭I’m Currently Studying Computer Science Engineering<br>🌱I’m Currently Learning Full Stack Development <br>💬 Ask Me About HTML5 , CSS3,  TAILWIND ,JAVA SCRIPT AND MANY MORE....,<br>📫 How to reach me :- brijeshkrsingh2001@gmail.com<br>📄 Know About My Experiences<br>⚡ Fun fact :- I'M funny , But Think Smart , Quick Learner  
+🔭I’m Currently Studying Computer Science Engineering<br>🌱I’m Currently Learning Full Stack Development <br>💬 Ask Me About HTML5 , CSS3, Bootstrap ,JAVA SCRIPT ,Reactjs, python,SQL, AND MANY MORE....,<br>📫 How to reach me :- brijeshkrsingh2001@gmail.com<br>📄 Know About My Experiences<br>⚡ Fun fact :- I'M funny , But Think Smart , Quick Learner  
 
 
 ## 🌐 Socials:
